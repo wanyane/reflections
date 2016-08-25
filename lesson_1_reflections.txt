@@ -1,0 +1,34 @@
+if you can see the different between two version of files.
+It is possible to debug because once the different section were
+found, you can tell why these two version file perform different.
+
+Q:
+How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+A:
+If somethings goes wrong in your new version file.
+we can find a old version code and restart.
+Q:
+What do you think are the pros and cons of manually
+choosing when to create a commit, like you do in Git,
+ vs having versions automatically saved, like Google Docs does?
+ A:
+ pros: I can commit whenever I want. It is more logical.
+ cons: I may forget to commit.
+Q:
+How can you use the commands git log and git diff to view
+ the history of files?
+A:
+Use git log to find the commit id and use git diff to compare these
+two versions.
+Q:
+How might using version control make you more
+confident to make changes that could break something?
+A:
+if you can go back and checkout the older version of your code,
+you can bravely add some new feature without worrying about generate
+some bugs.
+Q:
+How Do You Want to Use Git?
+A:
+For my new android project!
